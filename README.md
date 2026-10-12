@@ -157,7 +157,7 @@ This project was developed as a practical learning exercise to apply Python fund
 
 **Sujal Shrestha**
 
-GitHub: [Add your GitHub profile link here](https://github.com/)
+GitHub: [https://github.com/Suj41/](https://github.com/)
 
 ## License
 
